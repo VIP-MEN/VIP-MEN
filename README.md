@@ -23,6 +23,7 @@
 [<img align="left" alt="VIP-MEN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="VIP-MEN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="VIP-MEN | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="VIP-MEN | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -52,3 +53,4 @@
 [linkedin]: https://www.linkedin.com/in/oleg-fetico-163b10237/
 [instagram]: https://www.instagram.com/fetico07/
 [vk]: https://vk.com/fetico.oleg
+[telegram]: https://t.me/VIPMEN_OLEG
