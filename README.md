@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=VIP-MEN)
 
 ## I'm QA Engineer
-- 
+
 - 👀 I’m interested in Software testing
 - 🌱 I’m currently studying Manual Testing at the SkillFactory online school
 - 💪 I like to learn and study code, I plan to study automated testing
